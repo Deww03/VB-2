@@ -1,0 +1,9 @@
+C:\AdamKurniawan\LATIHAN4\bin\LATIHAN4.dll
+C:\AdamKurniawan\LATIHAN4\bin\LATIHAN4.pdb
+C:\AdamKurniawan\LATIHAN4\bin\LATIHAN4.xml
+C:\AdamKurniawan\LATIHAN4\obj\Debug\ResolveAssemblyReference.cache
+C:\AdamKurniawan\LATIHAN4\obj\Debug\LATIHAN4.Resources.resources
+C:\AdamKurniawan\LATIHAN4\obj\Debug\LATIHAN4.vbproj.GenerateResource.Cache
+C:\AdamKurniawan\LATIHAN4\obj\Debug\LATIHAN4.dll
+C:\AdamKurniawan\LATIHAN4\obj\Debug\LATIHAN4.xml
+C:\AdamKurniawan\LATIHAN4\obj\Debug\LATIHAN4.pdb
