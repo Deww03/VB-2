@@ -1,0 +1,9 @@
+C:\AdamKurniawan\LAT4\bin\LAT4.dll
+C:\AdamKurniawan\LAT4\bin\LAT4.pdb
+C:\AdamKurniawan\LAT4\bin\LAT4.xml
+C:\AdamKurniawan\LAT4\obj\Debug\ResolveAssemblyReference.cache
+C:\AdamKurniawan\LAT4\obj\Debug\LAT4.Resources.resources
+C:\AdamKurniawan\LAT4\obj\Debug\LAT4.vbproj.GenerateResource.Cache
+C:\AdamKurniawan\LAT4\obj\Debug\LAT4.dll
+C:\AdamKurniawan\LAT4\obj\Debug\LAT4.xml
+C:\AdamKurniawan\LAT4\obj\Debug\LAT4.pdb

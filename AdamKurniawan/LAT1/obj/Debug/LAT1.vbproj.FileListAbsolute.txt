@@ -1,0 +1,9 @@
+C:\AdamKurniawan\LAT1\bin\LAT1.dll
+C:\AdamKurniawan\LAT1\bin\LAT1.pdb
+C:\AdamKurniawan\LAT1\bin\LAT1.xml
+C:\AdamKurniawan\LAT1\obj\Debug\ResolveAssemblyReference.cache
+C:\AdamKurniawan\LAT1\obj\Debug\LAT1.Resources.resources
+C:\AdamKurniawan\LAT1\obj\Debug\LAT1.vbproj.GenerateResource.Cache
+C:\AdamKurniawan\LAT1\obj\Debug\LAT1.dll
+C:\AdamKurniawan\LAT1\obj\Debug\LAT1.xml
+C:\AdamKurniawan\LAT1\obj\Debug\LAT1.pdb
