@@ -1,0 +1,10 @@
+1. Menggunakan Aplikasi Microsoft Visual Studio 2022
+2. Menggunakan Database di Aplikasi SQL Server Management Studio 20
+
+Login Admin Menggunakan
+Username : admin
+Password : admin
+
+Login Anggota Menggunakan
+Username : Adam
+Password : 123
