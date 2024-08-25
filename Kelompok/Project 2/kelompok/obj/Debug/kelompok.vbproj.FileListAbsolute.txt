@@ -1,0 +1,18 @@
+D:\Project\ASP\kelompok\bin\kelompok.dll
+D:\Project\ASP\kelompok\bin\kelompok.pdb
+D:\Project\ASP\kelompok\bin\kelompok.xml
+D:\Project\ASP\kelompok\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\ASP\kelompok\obj\Debug\kelompok.Resources.resources
+D:\Project\ASP\kelompok\obj\Debug\kelompok.vbproj.GenerateResource.Cache
+D:\Project\ASP\kelompok\obj\Debug\kelompok.dll
+D:\Project\ASP\kelompok\obj\Debug\kelompok.xml
+D:\Project\ASP\kelompok\obj\Debug\kelompok.pdb
+D:\Kuliah\VB2\Kelompok 1\Project 2\kelompok\bin\kelompok.dll
+D:\Kuliah\VB2\Kelompok 1\Project 2\kelompok\bin\kelompok.pdb
+D:\Kuliah\VB2\Kelompok 1\Project 2\kelompok\bin\kelompok.xml
+D:\Kuliah\VB2\Kelompok 1\Project 2\kelompok\obj\Debug\ResolveAssemblyReference.cache
+D:\Kuliah\VB2\Kelompok 1\Project 2\kelompok\obj\Debug\kelompok.Resources.resources
+D:\Kuliah\VB2\Kelompok 1\Project 2\kelompok\obj\Debug\kelompok.vbproj.GenerateResource.Cache
+D:\Kuliah\VB2\Kelompok 1\Project 2\kelompok\obj\Debug\kelompok.dll
+D:\Kuliah\VB2\Kelompok 1\Project 2\kelompok\obj\Debug\kelompok.xml
+D:\Kuliah\VB2\Kelompok 1\Project 2\kelompok\obj\Debug\kelompok.pdb

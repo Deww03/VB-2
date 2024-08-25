@@ -1,0 +1,6 @@
+1. Menggunakan Microsoft Visual Studio 2008
+2. Menggunakan Database di Microsoft Access
+
+Login Admin Menggunakan 
+Username : Admin
+Password : Admin
